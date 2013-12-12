@@ -3,7 +3,8 @@
 from random import choice
 
 words = "salt fat anchor longshoreman sail mustache saw beard churn weight " \
-        "lamp wood whale axe pepper basil tamarind thyme cinnamon"
+        "lamp wood whale axe pepper basil tamarind thyme cinnamon consumption " \
+        "burgandy"
 
 words = words.split()
 
